@@ -1,19 +1,18 @@
 # IA-project
 
-Laura Tobon Ospina
+## Miembros del grupo
 
-1020415470
+Laura Tobon Ospina, 1020415470, Ingenieria de sistemas
 
-Ingenieria de sistemas
+Juan David Arismendy, 1128468109, Ingenieria de sistemas
 
-Juan David Arismendy
+Juan Pablo Arenas, 1037633965, Ingenieria de sistemas
 
-1128468109
+## Datos
 
-Ingenieria de sistemas
+Los datos del proyecto vienen de [La competición Kaggle Cancer](https://www.kaggle.com/datasets/programmerrdai/cancer), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
-Juan Pablo Arenas
-
-1037633965
-
-Ingenieria de sistemas
+  ! pd.read_csv("https://www.kaggle.com/datasets/programmerrdai/cancer?select=annual-number-of-deaths-by-cause.csv")
+  
+ 
+ 
