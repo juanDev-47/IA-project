@@ -19,7 +19,7 @@ Para esta parte mediante este comando debemos igualar una variable con este valo
 
 ## Videos de las entregas
 
-- video uno
+- [video uno](https://youtu.be/3rCwwD5W3XQ)
 - video dos
 
 
