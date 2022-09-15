@@ -22,18 +22,5 @@ Para esta parte mediante este comando debemos igualar una variable con este valo
 - [video uno](https://youtu.be/3rCwwD5W3XQ)
 - video dos
 
-
-## Estructura del proyecto (Tener presente)
-
-    |
-    +-  README-md
-    +-  PROYECTO_ENTREGA1.PDF
-    +-  PROYECTO_ENTREGA2.PDF
-    +-  PROYECTO_INFORME_FINAL.PDF
-    +-  01 - exploración de datos.ipynb
-    +-  02 - preprocesado.ipynb
-    +-  03 - modelo con SVM.ipynb
-    +-  04 - modelo con Random Forest.ipynb
-    +-  0x - otros_notebooks_numerados.ipynb
  
  
