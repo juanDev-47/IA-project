@@ -2,7 +2,7 @@
 
 ## Miembros del grupo
 
-Juan Pablo Arenas, 1037633965, Ingenieria de sistemas
+Juan Pablo Arenas, Ingenieria de sistemas
 
 ## Datos
 
